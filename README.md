@@ -158,5 +158,3 @@ These skills provide a foundation for subsequent networking, system administrati
 - Kali Linux VirtualBox installation guidance: https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/
 - Oracle VirtualBox documentation: https://www.virtualbox.org/manual/
 - GitHub Markdown documentation: https://docs.github.com/en/get-started/writing-on-github
-
-]
